@@ -1,3 +1,9 @@
+Food:
 Chicken 
 Rice 
 Burgers
+
+Movies:
+Batman
+Interstellar
+1947
